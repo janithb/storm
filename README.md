@@ -8,8 +8,8 @@ Storm is,
   1. High performance/lightweight inter-module communitation platform.
   2. A new protocol - JSON over STOMP, based on STOMP protocol.
   3. Lightweight IOC container.
-  4. Remote method invocation.
-  5. to easily create a Strom service using annotaton.
+  4. Remote method invocation over STOMP.
+  5. to easily create a Strom service using Annotatons.
   4. Async and Push.
   
 
